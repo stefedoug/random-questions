@@ -19,7 +19,5 @@ Random Questions App is an app that can generate random trivia questions, as wel
 5. When clicking ‘save’, the question is marked as saved
 
 
-## Owners:
-* [Mariia Honcharenko](https://github.com/mmmaariieee)
-* [Trevor Perry](https://github.com/TrevorPerry14)
-* [Adriel Puello](https://github.com/adrielpuello)
+## Tech stack:
+* [React](https://github.com/facebook/react)
