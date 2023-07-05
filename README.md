@@ -1,6 +1,6 @@
-# Project-2-Random-Questions
+# Random Questions
 
-![img](project-2/src/preview.png)
+![img](random-questions/src/preview.png)
 
 Random Questions App is an app that can generate random trivia questions, as well as allow users to select favorite questions and add their own ones.
 
